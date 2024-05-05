@@ -1,0 +1,5 @@
+Transferring files between 2 VMs
+
+NAT establishes a network in VirtualBox and DHCP assigns IP addresses to VMs
+
+scp file.txt nrmundase@172.168.2.4:/home/nrmundase
