@@ -12,4 +12,4 @@ gcloud app deploy
 This command creates the app and gives us the list of services which are deployed
 
 gcloud app browse
-This command gives us the link on which the app is deployed through which we can acces it
+This command gives us the link on which the app is deployed through which we can access it
