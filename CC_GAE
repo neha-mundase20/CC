@@ -1,0 +1,15 @@
+git clone  https://github.com/GoogleCloudPlatform/python-docs-samples
+This command clones the specified directory to the app engine
+
+cd python-docs-samples/appengine/standard_python3/hello_world
+Using this command we navigate through the downloaded directory
+
+nano main.py
+This command opens a text editor in the command line which lets you change the content displayed in the app using ctrl+O(To save changes) and ctrl+X(To exit the editor)
+
+
+gcloud app deploy
+This command creates the app and gives us the list of services which are deployed
+
+gcloud app browse
+This command gives us the link on which the app is deployed through which we can acces it
